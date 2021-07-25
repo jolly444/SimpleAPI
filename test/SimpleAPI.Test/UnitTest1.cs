@@ -17,7 +17,7 @@ namespace SimpleAPI.Test
             var newSum=2;
 
             //Act
-             var neDat=1+3;
+             var neDat=1+1;
 
             //Assert
 
